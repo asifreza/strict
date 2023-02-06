@@ -1,1 +1,1 @@
-# strict
+# exam-strict
